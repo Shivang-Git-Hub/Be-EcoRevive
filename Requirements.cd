@@ -1,3 +1,20 @@
+BACK END DEVELOPEMENT-JAVA (Bhupendra, Shivang)
+		             - kothin(optional)
+
+Database - postgresql (ishaan, Ankit)
+
+Full Stack - banda needed 
+
+fron end - html css js react (Styam, Chirag)
+
+frame work - express.js optional node.js (saurav, om) 
+
+devops - 
+
+security - 
+
+
+
 Registration
 
 #User Registration
@@ -21,13 +38,41 @@ User
 -> age min >= 16
 -> 
 
+login sign in / out
+my reports
+meri chitti
+
 passwords - mobile app ke liye finger print id and face lock
 
 upload video photo descripton location time 
     issue tracking community part
     report done or not 
-    whatsapp like communicton interface for community
+    whatsapp like communicton interface for community jaida active member gets award
 
+user profile edit
+        my rewards 
+        my issue 
+        my community 
+        my transctions
+
+same for community 
+        donations recived
+        query solved and remaining
+        feed back
+
+ed-resources - news
+            - indexes of aqi
+            - weather
+            - gov projects
+            - gk
+
+faq - issue
+    - soch(upload your ideas)
+
+our insvestors
+
+about us - our page
+            
 
 Notification - system
 
